@@ -1,6 +1,6 @@
-# {{ name }}
+# Weather API Test
 
-> {{ description }}
+> just testing the open weather api: https://openweathermap.org/city
 
 ## Build Setup
 
@@ -15,4 +15,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
